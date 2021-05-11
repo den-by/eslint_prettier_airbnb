@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "eslint --fix"
+    "eslint-write": "eslint --fix",
+    "eslint": "eslint **/*.js"
   },
   "author": "",
   "license": "MIT",
